@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: forge-linguistic
+      function: main
+      title: forge-linguistic
+      description: Linguistic info for the JIRA description
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/a51a9fa8-2f14-4b38-96c3-5433857a2b4c'
+  name: forge-linguistic
